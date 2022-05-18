@@ -7,6 +7,7 @@ import {
   iconRepoNotFound,
 } from "../../assets";
 import "./profile.css";
+import { Repos } from "../Repos/Repos";
 import { CircularProgress } from "@mui/material";
 
 export const Profile = ({ userName }) => {
@@ -133,6 +134,7 @@ export const Profile = ({ userName }) => {
                 </div>
               )}
             </div>
+            <Repos userName={userName} />
           </div>
         </div>
       )}
