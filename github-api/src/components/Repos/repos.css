@@ -25,6 +25,47 @@
   color: #000000;
   padding: 0 0 24px 32px;
 }
+.paginationBtns {
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+.paginationBtns > li {
+  background-color: transparent;
+}
+.paginationBtns a {
+  width: 21px;
+	height: 25px;
+  font-family: 'Inter';
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+	color: #808080;
+  padding: 2px 6px;
+  margin-right: 16px;
+  transition: background-color .2s;
+	cursor: pointer;
+}
+.paginationBtns a.prevBtn,
+.paginationBtns a.nextBtn {
+  color: #0064EB;
+}
+.prevBtn a,
+.nextBtn a {
+  width: 7.12px;
+	height: 11.41px;
+}
+.paginationDisabled a {
+	opacity: 0.2;
+	margin: 0 16px;
+}
+.paginationActive a {
+  color: #FFFFFF;
+	background-color: #0064EB;
+	border-radius: 4px;
+}
 
 @media (max-width: 340px) {
   .repo-link {
@@ -35,3 +76,4 @@
     padding: 5px;
   }
 }
+
