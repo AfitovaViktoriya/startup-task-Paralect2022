@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/startup-task-Paralect2022/static/css/main.bfbd6ea5.css",
-    "main.js": "/startup-task-Paralect2022/static/js/main.00443fff.js",
+    "main.css": "/startup-task-Paralect2022/static/css/main.0e1883f4.css",
+    "main.js": "/startup-task-Paralect2022/static/js/main.61637a19.js",
     "static/media/logoGitHub.svg": "/startup-task-Paralect2022/static/media/logoGitHub.1ee5d17ed4c57bd108a057783e8b165a.svg",
     "static/media/iconFollowers.svg": "/startup-task-Paralect2022/static/media/iconFollowers.fdce70b4d370c3a2740983e9cacf030c.svg",
     "static/media/iconRepoNotFound.svg": "/startup-task-Paralect2022/static/media/iconRepoNotFound.ae2522580bf55fa6ea58b4d7ae8a6e60.svg",
@@ -10,11 +10,11 @@
     "static/media/iconSearch.svg": "/startup-task-Paralect2022/static/media/iconSearch.8bbfc6091f399b313a1522b2b9d4d3fe.svg",
     "static/media/iconUserNotFound.svg": "/startup-task-Paralect2022/static/media/iconUserNotFound.645d05a066215f55526035a838338db5.svg",
     "static/media/iconFollowing.svg": "/startup-task-Paralect2022/static/media/iconFollowing.e490f2ef98eb937d7888b85f78d4c56a.svg",
-    "main.bfbd6ea5.css.map": "/startup-task-Paralect2022/static/css/main.bfbd6ea5.css.map",
-    "main.00443fff.js.map": "/startup-task-Paralect2022/static/js/main.00443fff.js.map"
+    "main.0e1883f4.css.map": "/startup-task-Paralect2022/static/css/main.0e1883f4.css.map",
+    "main.61637a19.js.map": "/startup-task-Paralect2022/static/js/main.61637a19.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfbd6ea5.css",
-    "static/js/main.00443fff.js"
+    "static/css/main.0e1883f4.css",
+    "static/js/main.61637a19.js"
   ]
 }
