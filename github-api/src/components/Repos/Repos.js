@@ -43,7 +43,7 @@ export const Repos = ({ userName, reposTotal }) => {
         onPageChange={handlePageClick}
         pageRangeDisplayed={3}
         marginPagesDisplayed={1}
-        pageCount={10} // pageCount
+        pageCount={pageCount}
         previousLabel="<"
         containerClassName={"paginationBtns"}
         previousLinkClassName={"prevBtn"}
